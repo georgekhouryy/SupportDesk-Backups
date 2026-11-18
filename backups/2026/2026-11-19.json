@@ -1,0 +1,107 @@
+{
+ "app": "Support Desk",
+ "format": "netlify-snapshot",
+ "day": "2026-11-19",
+ "takenAt": "2026-11-18T22:00:57.603Z",
+ "cols": {
+  "customers": {},
+  "assets": {},
+  "tickets": {},
+  "renewals": {},
+  "contracts": {},
+  "accounts": {},
+  "reminders": {},
+  "vlans": {},
+  "isp": {},
+  "backups": {},
+  "files": {},
+  "invoices": {},
+  "quotes": {},
+  "companies": {
+   "default": {
+    "name": "Data Recovery Lebanon",
+    "createdAt": "2026-11-03T08:46:52.113Z"
+   }
+  },
+  "log": {}
+ },
+ "users": {
+  "JhzPSapNOiQlsBHg": {
+   "id": "JhzPSapNOiQlsBHg",
+   "username": "admin",
+   "name": "Raed Dib",
+   "passHash": "scrypt$6YT0gLgA/6uBVV6rq3fUYg==$MWWJmCoA8MkOm3V9W4sx9UwRmlpHq3k6ip5Gjd9cH54jM3ogfwtn1SZ5m3t1hnz4okXknotI46rkb10vccptpw==",
+   "status": "active",
+   "isOwner": true,
+   "perms": {},
+   "createdAt": "2026-11-03T09:18:48.268Z",
+   "failed": 0,
+   "lockedUntil": 0,
+   "lastLogin": "2026-11-18T07:58:26.406Z"
+  },
+  "VHxyuDc9KdUdepJ1": {
+   "id": "VHxyuDc9KdUdepJ1",
+   "username": "roudy",
+   "name": "Roudy",
+   "passHash": "scrypt$XFcyct0+0UN1ViAjxhQq1A==$qI/Pjpp+2f/k69enRFwrwG6o1WJ0P46YhnMZp1j7+IB11LikO6Kz1oGzaaKAdo0jsxmjKUR22HTEu5mNjnZF7A==",
+   "status": "active",
+   "isOwner": false,
+   "perms": {
+    "default": {
+     "tabs": [
+      "dashboard",
+      "reminders",
+      "customers",
+      "devices",
+      "vlans",
+      "internet",
+      "backups",
+      "files",
+      "tickets",
+      "renewals",
+      "contracts",
+      "emails"
+     ],
+     "edit": true,
+     "secrets": true
+    }
+   },
+   "requestedCompany": "default",
+   "createdAt": "2026-11-03T09:20:42.788Z",
+   "failed": 0,
+   "lockedUntil": 0
+  },
+  "V35pltNIrJji4leL": {
+   "id": "V35pltNIrJji4leL",
+   "username": "alaa",
+   "name": "Alaa",
+   "passHash": "scrypt$GMtaP5nkVCtOEm3m+As0Xg==$sUuvtX+mhLp93uFZqb7gWXKRO+P2oS3/MM1gYLJGIkkbN4ta6ino4Acnh+ctuKcSI+5C8D1+4jSKSYMlJUQt/w==",
+   "status": "active",
+   "isOwner": false,
+   "perms": {
+    "default": {
+     "tabs": [
+      "dashboard",
+      "reminders",
+      "customers",
+      "devices",
+      "vlans",
+      "internet",
+      "backups",
+      "files",
+      "tickets",
+      "renewals",
+      "contracts",
+      "emails"
+     ],
+     "edit": true,
+     "secrets": true
+    }
+   },
+   "requestedCompany": "default",
+   "createdAt": "2026-11-03T09:20:43.926Z",
+   "failed": 0,
+   "lockedUntil": 0
+  }
+ }
+}
